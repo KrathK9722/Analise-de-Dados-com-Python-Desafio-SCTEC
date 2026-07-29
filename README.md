@@ -1,7 +1,7 @@
 
 
 Análise Exploratória de Dados da base Sample Superstore
-Acesse [aqui]{src = https://colab.research.google.com/drive/1PuaSIcAf60PJxdX2O8KOE3IO9Sh9Wye2?usp=sharing}
+Acesse [aqui](https://colab.research.google.com/drive/1PuaSIcAf60PJxdX2O8KOE3IO9Sh9Wye2?usp=sharing)
 
 
 
